@@ -97,11 +97,9 @@ class template
 			            				<li><a href="">  </a></li>
 			            				<li><a href="">  </a></li>
 			                          	<li><a href="">  </a></li>
-                          <li><a href="">  </a></li>
-                          <li><a href="">  </a></li>
-                          <li><a href="">  </a></li>
-                          <li><a href="">  </a></li>
-                          <li><a href="">  </a></li>
+				                          <li><a href="">  </a></li>
+				                          <li><a href="">  </a></li>
+				                          <li><a href="">  </a></li>
 			            				<li class="active"><a href="time.php">Time de Desenvolvimento</a></li>		
 			            			</ul>
 			    	    		</div>
