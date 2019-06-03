@@ -107,11 +107,10 @@ Sistema Operacional    | Ubuntu, Windows, Mac, RedHat
 
 ##Tecnologias
 
-Tecnologias | Ferramentas
----------   | ------
-Front-End   | HTML, CSS, Bootstrap
-Back-End    | Php
-
+Tecnologias      | Ferramentas
+---------        | ------
+Front-End        | HTML, CSS, Bootstrap
+Back-End         | Php
 Editor de Texto  | Sublime
 Servidor Web     | https://github.com.br
 
